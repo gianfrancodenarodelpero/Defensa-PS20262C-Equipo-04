@@ -1,4 +1,4 @@
-﻿# Spotify — prototipo Sprint 1
+﻿# Spotify — prototipo Sprint
 
 Prototipo académico de catálogo, búsqueda, navegación por artistas/álbumes y reproducción HTML5. Incluye únicamente el alcance de Sprint 1; no incluye cuentas, playlists, recomendaciones ni favoritos.
 
